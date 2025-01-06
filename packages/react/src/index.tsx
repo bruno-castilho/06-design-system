@@ -6,6 +6,7 @@ const Button = styled('button', {
   borderRadius: '$md',
   padding: '$4',
 })
+
 export function App() {
   return <Button>Hello World</Button>
 }
